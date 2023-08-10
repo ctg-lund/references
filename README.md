@@ -1,2 +1,2 @@
 # references
-custom reference genomes and panels
+bed files
